@@ -1,0 +1,24 @@
+==========================
+ TERMINAL CODEX - INDEX
+==========================
+
+🔗 Symbolic Links
+Path: ~/terminal_training/symlinks/
+Description: Simulates Shinra mission selector using symbolic links to point to the current mission file. Includes `mission_selector.sh`.
+
+📁 Navigation Basics
+Path: ~/terminal_training/navigation/
+Description: Practice using cd, ls, -a, -l, file, and less. Includes an interactive guide: run ./nav_basics.sh
+
+🔐 File Permissions (Coming Soon)
+Path: ~/terminal_training/file_permissions/
+Description: Will cover `chmod`, `chown`, and how to interpret permission bits.
+
+📜 Streams & Text Tools (Coming Soon)
+Path: ~/terminal_training/text_streams/
+Description: Will explore `cat`, `less`, `head`, `tail`, and more.
+
+...
+
+To run a lesson:
+> cd into the path listed and run any included script, like `./mission_selector.sh`
