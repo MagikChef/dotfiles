@@ -142,3 +142,4 @@ sed -i 's/PLAY_SHINRA_THEME=0/PLAY_SHINRA_THEME=0/' ~/.bashrc
 echo "🔊 Shinra theme enabled. It will play on next terminal launch."
 fi
 }
+# shinra update
