@@ -1,5 +1,4 @@
 
-=======
 PS1="\[\e[1;31m\][MIDGAR REACTOR]\[\e[0m\] \[\e[1;34m\]\u\[\e[0m\]@\[\e[0;35m\]\h\[\e[0m\] → \[\e[0;36m\]\w\[\e[0m\] \$ "
 echo -e "\e[1;31m
  ███╗   ███╗ █████╗ ██╗  ██╗ ██████╗ 
@@ -27,4 +26,3 @@ sed -i 's/PLAY_SHINRA_THEME=0/PLAY_SHINRA_THEME=0/' ~/.bashrc
 echo "🔊 Shinra theme enabled. It will play on next terminal launch."
 fi
 }
->>>>>>> b099a07 (Inital commit - Shinra terminal setup)
